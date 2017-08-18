@@ -52,7 +52,7 @@ public class HelloControler {
         return buf.toString();
     }
 
-    @Value("${mysqldb.datasource.url}")
+    @Value("${mysqldb.datasource.url:none}")
     String mysqlUrl;
 
     @RequestMapping("/config")
