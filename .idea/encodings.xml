@@ -2,7 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbox-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbox-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/motan-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/motan-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/neo4j" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-server" charset="UTF-8" />

@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbox-consumer/dubbox-consumer.iml" filepath="$PROJECT_DIR$/dubbox-consumer/dubbox-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbox-provider/dubbox-provider.iml" filepath="$PROJECT_DIR$/dubbox-provider/dubbox-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/motan-consumer/motan-consumer.iml" filepath="$PROJECT_DIR$/motan-consumer/motan-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/motan-provider/motan-provider.iml" filepath="$PROJECT_DIR$/motan-provider/motan-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-client/spring-cloud-client.iml" filepath="$PROJECT_DIR$/spring-cloud-client/spring-cloud-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-server/spring-cloud-server.iml" filepath="$PROJECT_DIR$/spring-cloud-server/spring-cloud-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-eureka-server/spring-cloud-server (1).iml" filepath="$PROJECT_DIR$/spring-eureka-server/spring-cloud-server (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-demo.iml" filepath="$PROJECT_DIR$/spring-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-eureka-server/spring-eureka-server.iml" filepath="$PROJECT_DIR$/spring-eureka-server/spring-eureka-server.iml" />
     </modules>

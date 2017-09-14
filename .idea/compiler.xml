@@ -22,6 +22,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="dubbox-consumer" />
+        <module name="dubbox-provider" />
+        <module name="motan-consumer" />
+        <module name="motan-provider" />
         <module name="spring-cloud-client" />
         <module name="spring-cloud-server" />
         <module name="spring-cloud-server (1)" />
@@ -32,6 +36,8 @@
     <bytecodeTargetLevel>
       <module name="dubbox-consumer" target="1.5" />
       <module name="dubbox-provider" target="1.5" />
+      <module name="motan-consumer" target="1.5" />
+      <module name="motan-provider" target="1.5" />
       <module name="neo4j" target="1.8" />
       <module name="neo4j-demo" target="1.5" />
       <module name="neo4j-demo (1)" target="1.8" />
