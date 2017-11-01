@@ -11,7 +11,7 @@
     <dubbo:application name="dubboProvider" owner="dushougudu" organization="git.china"/>
 
     <dubbo:protocol name="dubbo" port="28080" />
-    <dubbo:registry address="zookeeper://10.20.42.230:2181"/>
+    <dubbo:registry address="zookeeper://10.20.42.18:2181"/>
 
     <!--uncomment this if you want to test dubbo's monitor-->
     <!--<dubbo:monitor protocol="registry"/>-->

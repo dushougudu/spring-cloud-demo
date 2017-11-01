@@ -8,7 +8,7 @@
 
 
     <modules>
-        <!--<module>neo4j</module>-->
+        <module>neo4j</module>
         <module>spring-cloud-server</module>
         <module>spring-cloud-client</module>
         <module>spring-eureka-server</module>
