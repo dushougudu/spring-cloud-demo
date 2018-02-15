@@ -19,6 +19,7 @@ public class ServerApp {
 
     @RequestMapping(value = "/test", method = RequestMethod.GET)
     String test() {
+        System.out.println("tet");
         return "server执行test";
     }
 

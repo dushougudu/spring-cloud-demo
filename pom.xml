@@ -12,6 +12,9 @@
         <module>spring-cloud-server</module>
         <module>spring-cloud-client</module>
         <module>spring-eureka-server</module>
+        <module>spring-zipkin-server</module>
+        <module>spring-config-server</module>
+        <module>spring-cloud-zuul</module>
         <module>motan-provider</module>
         <module>motan-consumer</module>
         <module>dubbox-provider</module>
