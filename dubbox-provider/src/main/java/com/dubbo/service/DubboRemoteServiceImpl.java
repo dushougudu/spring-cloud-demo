@@ -1,6 +1,6 @@
 package com.dubbo.service;
 
-import org.springframework.stereotype.Service;
+import com.alibaba.dubbo.config.annotation.Service;
 
 /**
  * Created by zhang_tao6 on 2017-09-14.
